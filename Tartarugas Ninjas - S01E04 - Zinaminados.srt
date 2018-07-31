@@ -1,3 +1,7 @@
+0
+00:00:05,800 --> 00:00:40,100
+Zinaminados.blogspot.com - Desenhos Online!
+
 1
 00:00:50,800 --> 00:00:52,100
 Mestre Destruidor.
@@ -9,12 +13,12 @@ usou seu tempo sabiamente.
 
 3
 00:00:58,066 --> 00:01:00,415
-Eu montei um exército
+Eu montei um exÃ©rcito
 de ninjas.
 
 4
 00:01:00,816 --> 00:01:02,815
-O Clã Foot aguarda
+O ClÃ£ Foot aguarda
 suas ordens.
 
 5
@@ -37,13 +41,13 @@ Vivo?
 
 9
 00:01:13,200 --> 00:01:15,670
-E ele está treinando
-os próprios ninjas.
+E ele estÃ¡ treinando
+os prÃ³prios ninjas.
 
 10
 00:01:16,400 --> 00:01:20,602
 Finalmente terminarei
-o que comecei há tantos anos.
+o que comecei hÃ¡ tantos anos.
 
 11
 00:01:21,003 --> 00:01:23,218
@@ -51,17 +55,17 @@ Quero todos eles eliminados.
 
 12
 00:01:23,219 --> 00:01:26,245
--Não falharei, mestre.
+-NÃ£o falharei, mestre.
 -Eu sei.
 
 13
 00:01:26,246 --> 00:01:30,327
 Mas para ter certeza,
-trabalhará com o Xever.
+trabalharÃ¡ com o Xever.
 
 14
 00:01:30,828 --> 00:01:34,482
-Não preciso de ajuda,
+NÃ£o preciso de ajuda,
 ainda mais deste rato de rua.
 
 15
@@ -75,8 +79,8 @@ a hora que quiser.
 
 17
 00:01:38,381 --> 00:01:41,190
-Não me interesso pela rivalidade
-insignificante de vocês.
+NÃ£o me interesso pela rivalidade
+insignificante de vocÃªs.
 
 18
 00:01:41,691 --> 00:01:45,111
@@ -85,17 +89,17 @@ desta cidade.
 
 19
 00:01:45,612 --> 00:01:48,100
-Vocês trabalharão juntos.
+VocÃªs trabalharÃ£o juntos.
 
 20
 00:01:50,000 --> 00:01:51,706
-Não se preocupe,
+NÃ£o se preocupe,
 Mestre Destruidor.
 
 21
 00:01:52,207 --> 00:01:54,790
 Encontraremos
-o Splinter e seus discípulos...
+o Splinter e seus discÃ­pulos...
 
 22
 00:01:54,791 --> 00:01:56,369
@@ -122,22 +126,22 @@ Lory | daewolz
 
 27
 00:02:13,842 --> 00:02:15,975
-<i>Heróis de meio casco,
+<i>HerÃ³is de meio casco,
 poder tartaruga</i>
 
 28
 00:02:15,976 --> 00:02:18,411
-<i>Aqui vamos nós, é um time
+<i>Aqui vamos nÃ³s, Ã© um time
 esguio, verde e ninja</i>
 
 29
 00:02:18,412 --> 00:02:20,580
-<i>Em questão,
+<i>Em questÃ£o,
 jovens legais sendo ninjas</i>
 
 30
 00:02:20,581 --> 00:02:22,782
-<i>Tão extremos,
+<i>TÃ£o extremos,
 saem do esgoto como raio laser</i>
 
 31
@@ -147,7 +151,7 @@ como os reis da pizza</i>
 
 32
 00:02:24,884 --> 00:02:26,787
-<i>Não se pode parar
+<i>NÃ£o se pode parar
 estes caras radicais</i>
 
 33
@@ -157,7 +161,7 @@ os tornou os escolhidos</i>
 
 34
 00:02:28,989 --> 00:02:31,324
-<i>Vêm das sombras
+<i>VÃªm das sombras
 para fazer suas manobras</i>
 
 35
@@ -167,7 +171,7 @@ e os bandidos perdem</i>
 
 36
 00:02:37,631 --> 00:02:39,432
-<i>Leonardo é o líder
+<i>Leonardo Ã© o lÃ­der
 de azul</i>
 
 37
@@ -177,23 +181,23 @@ para liderar seus ninjas</i>
 
 38
 00:02:41,667 --> 00:02:44,120
-<i>Donatello é o companheiro
-que mexe com as máquinas</i>
+<i>Donatello Ã© o companheiro
+que mexe com as mÃ¡quinas</i>
 
 39
 00:02:44,121 --> 00:02:46,205
-<i>Rafael é
+<i>Rafael Ã©
 o de mais atitude no time</i>
 
 40
 00:02:46,206 --> 00:02:47,773
 <i>Michelangelo
-é daqueles</i>
+Ã© daqueles</i>
 
 41
 00:02:47,774 --> 00:02:50,308
-<i>Que você sabe bem onde
-encontrá-lo quando tem festa</i>
+<i>Que vocÃª sabe bem onde
+encontrÃ¡-lo quando tem festa</i>
 
 42
 00:02:50,309 --> 00:02:52,512
@@ -211,7 +215,7 @@ esguio, verde, ninja</i>
 
 45
 00:03:00,854 --> 00:03:03,247
-<i>Heróis de meio casco,
+<i>HerÃ³is de meio casco,
 poder tartaruga</i>
 
 46
@@ -221,7 +225,7 @@ poder tartaruga</i>
 
 47
 00:03:17,000 --> 00:03:18,300
-Olha só!
+Olha sÃ³!
 
 48
 00:03:31,500 --> 00:03:33,479
@@ -239,20 +243,20 @@ Olhem isto.
 51
 00:03:54,800 --> 00:03:57,145
 O que foi aquilo?
-Não fez nenhum mortal.
+NÃ£o fez nenhum mortal.
 
 52
 00:04:11,200 --> 00:04:15,030
-Não desista, Leo.
-Você pode ganhar esta luta.
+NÃ£o desista, Leo.
+VocÃª pode ganhar esta luta.
 
 53
 00:04:17,031 --> 00:04:18,331
-É um gatinho.
+Ã‰ um gatinho.
 
 54
 00:04:20,100 --> 00:04:21,924
-E o seu nome é...
+E o seu nome Ã©...
 
 55
 00:04:21,925 --> 00:04:23,225
@@ -269,50 +273,50 @@ Mittens?
 
 58
 00:04:27,197 --> 00:04:28,822
-Acho que é o dono.
+Acho que Ã© o dono.
 
 59
 00:04:29,223 --> 00:04:31,100
--O que está fazendo?
+-O que estÃ¡ fazendo?
 -Mikey, espere!
 
 60
 00:04:31,101 --> 00:04:33,285
-O quê?
+O quÃª?
 Devolverei Mittens para o dono.
 
 61
 00:04:33,286 --> 00:04:34,847
-Você é idiota?
+VocÃª Ã© idiota?
 
 62
 00:04:34,848 --> 00:04:37,475
 Deixe-me reformular...
-Você é idiota!
+VocÃª Ã© idiota!
 
 63
 00:04:37,476 --> 00:04:39,300
-Não pode se mostrar
+NÃ£o pode se mostrar
 para um humano.
 
 64
 00:04:39,301 --> 00:04:42,036
--Por que não?
--Porque eles entrarão em pânico.
+-Por que nÃ£o?
+-Porque eles entrarÃ£o em pÃ¢nico.
 
 65
 00:04:42,037 --> 00:04:45,563
-Não, não irão...
-Eu não sou tão assustador.
+NÃ£o, nÃ£o irÃ£o...
+Eu nÃ£o sou tÃ£o assustador.
 
 66
 00:04:45,564 --> 00:04:49,500
-Você é um mutante verde,
+VocÃª Ã© um mutante verde,
 feio e com armas de ninja.
 
 67
 00:04:49,501 --> 00:04:53,382
-Ele verá que sou alguém
+Ele verÃ¡ que sou alguÃ©m
 que adora gatos como ele.
 
 68
@@ -326,7 +330,7 @@ Vai ser irado!
 
 70
 00:04:57,262 --> 00:04:58,562
--Não!
+-NÃ£o!
 -Espere!
 
 71
@@ -336,11 +340,11 @@ Mittens!
 72
 00:05:00,800 --> 00:05:02,741
 Oi!
-Aqui está seu...
+Aqui estÃ¡ seu...
 
 73
 00:05:03,150 --> 00:05:04,830
-Aberração mutante,
+AberraÃ§Ã£o mutante,
 verde e feia!
 
 74
@@ -350,36 +354,36 @@ verde e feia!
 
 75
 00:05:06,601 --> 00:05:08,924
--Ele está com meu gato!
+-Ele estÃ¡ com meu gato!
 -Cara, relaxa.
 
 76
 00:05:08,925 --> 00:05:10,555
--Eu só...
--Ele está com meu gato!
+-Eu sÃ³...
+-Ele estÃ¡ com meu gato!
 
 77
 00:05:19,800 --> 00:05:21,943
-Alguém quer me ajudar com isto?
+AlguÃ©m quer me ajudar com isto?
 
 78
 00:05:25,100 --> 00:05:26,400
--Não!
--Não!
+-NÃ£o!
+-NÃ£o!
 
 79
 00:05:31,000 --> 00:05:34,100
 Aceite.
-Os humanos jamais te entenderão.
+Os humanos jamais te entenderÃ£o.
 
 80
 00:05:34,101 --> 00:05:36,600
 Diabos...
-Nem nós te entendemos.
+Nem nÃ³s te entendemos.
 
 81
 00:05:38,200 --> 00:05:39,500
-É...
+Ã‰...
 
 82
 00:05:41,870 --> 00:05:43,929
@@ -393,11 +397,11 @@ Chris Bradford?!
 84
 00:05:45,701 --> 00:05:50,780
 Astro das artes marciais, dono
-de uma rede de dojôs no país.
+de uma rede de dojÃ´s no paÃ­s.
 
 85
 00:05:50,781 --> 00:05:52,394
-Ele é sua cara metade?
+Ele Ã© sua cara metade?
 
 86
 00:05:53,500 --> 00:05:55,520
@@ -410,30 +414,30 @@ E se parar com essa pose?
 88
 00:05:57,851 --> 00:06:00,817
 Teremos menos coisas em comum,
-mas ainda restará muito.
+mas ainda restarÃ¡ muito.
 
 89
 00:06:01,118 --> 00:06:04,325
-Ele participará de uma exposição
+Ele participarÃ¡ de uma exposiÃ§Ã£o
 de artes marciais na cidade.
 
 90
 00:06:04,326 --> 00:06:06,562
 Talvez ele me mostre
-sua técnica secreta,
+sua tÃ©cnica secreta,
 
 91
 00:06:06,563 --> 00:06:08,443
-o Dragão da Morte.
+o DragÃ£o da Morte.
 
 92
 00:06:08,444 --> 00:06:10,378
 E eu o mostrarei
-minha técnica secreta,
+minha tÃ©cnica secreta,
 
 93
 00:06:10,379 --> 00:06:12,631
-a Técnica Secreta.
+a TÃ©cnica Secreta.
 
 94
 00:06:12,632 --> 00:06:14,132
@@ -441,11 +445,11 @@ Original!
 
 95
 00:06:14,133 --> 00:06:15,533
-Dá uma olhada!
+DÃ¡ uma olhada!
 
 96
 00:06:23,900 --> 00:06:25,698
-Mas não conte a ninguém
+Mas nÃ£o conte a ninguÃ©m
 o que viu.
 
 97
@@ -455,12 +459,12 @@ o que viu.
 
 98
 00:06:27,931 --> 00:06:31,207
-Chris Bradford é a última pessoa
-do mundo que será seu amigo.
+Chris Bradford Ã© a Ãºltima pessoa
+do mundo que serÃ¡ seu amigo.
 
 99
 00:06:31,508 --> 00:06:35,855
-Bem, empatado em último
+Bem, empatado em Ãºltimo
 com o resto do mundo inteiro.
 
 100
@@ -470,29 +474,29 @@ Em Nova Iorque?
 
 101
 00:06:44,314 --> 00:06:45,614
-Além de nós?
+AlÃ©m de nÃ³s?
 
 102
 00:07:18,300 --> 00:07:19,943
-Por que está tão feliz?
+Por que estÃ¡ tÃ£o feliz?
 
 103
 00:07:20,444 --> 00:07:22,900
-É legal lutar com pessoas,
+Ã‰ legal lutar com pessoas,
 finalmente.
 
 104
 00:07:22,901 --> 00:07:27,013
-Em vez de robôs ou alienígenas
+Em vez de robÃ´s ou alienÃ­genas
 ou monstros de ervas.
 
 105
 00:07:43,200 --> 00:07:44,500
-O que é você?
+O que Ã© vocÃª?
 
 106
 00:08:01,884 --> 00:08:03,819
-O líder era loucamente bom.
+O lÃ­der era loucamente bom.
 
 107
 00:08:03,820 --> 00:08:07,157
@@ -501,8 +505,8 @@ e parecia um pouco louco.
 
 108
 00:08:07,558 --> 00:08:11,025
-Além do mais, tinha muita gente
-com ele, não foi uma luta justa.
+AlÃ©m do mais, tinha muita gente
+com ele, nÃ£o foi uma luta justa.
 
 109
 00:08:11,826 --> 00:08:14,756
@@ -520,8 +524,8 @@ pode ganhar.
 
 112
 00:08:19,235 --> 00:08:23,650
-Então, uma luta justa
-é uma luta que pode perder.
+EntÃ£o, uma luta justa
+Ã© uma luta que pode perder.
 
 113
 00:08:24,151 --> 00:08:25,651
@@ -531,17 +535,17 @@ Sim, mas...
 114
 00:08:25,652 --> 00:08:29,419
 -Quero dizer que...
--Não quer assegurar sua vitória?
+-NÃ£o quer assegurar sua vitÃ³ria?
 
 115
 00:08:29,420 --> 00:08:31,280
-Não, eu quero,
+NÃ£o, eu quero,
 mas...
 
 116
 00:08:34,350 --> 00:08:36,800
 -Foi justo?
--Não!
+-NÃ£o!
 
 117
 00:08:36,801 --> 00:08:40,201
@@ -550,8 +554,8 @@ mas...
 
 118
 00:08:40,502 --> 00:08:43,419
-Busque vitórias,
-não justiça.
+Busque vitÃ³rias,
+nÃ£o justiÃ§a.
 
 119
 00:08:45,520 --> 00:08:47,020
@@ -559,7 +563,7 @@ Sim, Sensei.
 
 120
 00:08:58,600 --> 00:09:00,161
-Nossa... Isso é radical!
+Nossa... Isso Ã© radical!
 
 121
 00:09:01,062 --> 00:09:04,095
@@ -568,7 +572,7 @@ do Chris Bradford.
 
 122
 00:09:07,600 --> 00:09:09,843
-Mikey, você já tem
+Mikey, vocÃª jÃ¡ tem
 uma amiga humana.
 
 123
@@ -577,18 +581,18 @@ Eu!
 
 124
 00:09:12,345 --> 00:09:16,018
-April, você não conta, salvamos
-sua vida, tem de gostar de nós.
+April, vocÃª nÃ£o conta, salvamos
+sua vida, tem de gostar de nÃ³s.
 
 125
 00:09:16,019 --> 00:09:18,421
-Mas não há um lugar
-de encontro para aberrações,
+Mas nÃ£o hÃ¡ um lugar
+de encontro para aberraÃ§Ãµes,
 
 126
 00:09:18,422 --> 00:09:20,575
-onde ninguém pode ver
-o quão feias elas são.
+onde ninguÃ©m pode ver
+o quÃ£o feias elas sÃ£o.
 
 127
 00:09:20,576 --> 00:09:22,454
@@ -598,11 +602,11 @@ A internet!
 128
 00:09:22,455 --> 00:09:25,728
 -Donnie, empresta seu laptop?
--Claro, só um segundo.
+-Claro, sÃ³ um segundo.
 
 129
 00:09:27,110 --> 00:09:29,600
-Olha só, é um site
+Olha sÃ³, Ã© um site
 onde se pode fazer amizade
 
 130
@@ -612,8 +616,8 @@ onde se pode fazer amizade
 
 131
 00:09:36,000 --> 00:09:38,907
-Chris Bradford está aqui.
-Ele será meu primeiro amigo.
+Chris Bradford estÃ¡ aqui.
+Ele serÃ¡ meu primeiro amigo.
 
 132
 00:09:43,308 --> 00:09:46,073
@@ -622,11 +626,11 @@ respondem imed...
 
 133
 00:09:47,350 --> 00:09:48,715
-Mas, às vezes, respondem.
+Mas, Ã s vezes, respondem.
 
 134
 00:09:50,516 --> 00:09:54,521
-Não pode ser. Chris Bradford
+NÃ£o pode ser. Chris Bradford
 aceitou ser meu amigo!
 
 135
@@ -636,7 +640,7 @@ Obrigado, April.
 
 136
 00:09:57,475 --> 00:09:58,775
-Aonde está indo?
+Aonde estÃ¡ indo?
 
 137
 00:10:00,000 --> 00:10:02,810
@@ -645,17 +649,17 @@ o Chris Bradford.
 
 138
 00:10:03,411 --> 00:10:07,490
-Ele é famoso, provavelmente,
+Ele Ã© famoso, provavelmente,
 tem milhares de "amigos".
 
 139
 00:10:07,491 --> 00:10:10,738
-Adivinhe quem é
-o número 5286?
+Adivinhe quem Ã©
+o nÃºmero 5286?
 
 140
 00:10:11,039 --> 00:10:12,339
-Você?
+VocÃª?
 
 141
 00:10:12,340 --> 00:10:15,022
@@ -664,16 +668,16 @@ E eu estou ao lado dele.
 
 142
 00:10:15,023 --> 00:10:16,323
-Até mais!
+AtÃ© mais!
 
 143
 00:10:17,024 --> 00:10:18,893
 Bem...
-Isso será interessante.
+Isso serÃ¡ interessante.
 
 144
 00:10:18,894 --> 00:10:20,194
-Devemos ir atrás dele?
+Devemos ir atrÃ¡s dele?
 
 145
 00:10:20,195 --> 00:10:22,333
@@ -682,7 +686,7 @@ de alguma forma.
 
 146
 00:10:32,700 --> 00:10:34,900
-E aí? Oi.
+E aÃ­? Oi.
 Eu sou...
 
 147
@@ -692,11 +696,11 @@ pelo Chris Bradford.
 
 148
 00:10:40,150 --> 00:10:42,350
-Isto é tão legal!
+Isto Ã© tÃ£o legal!
 
 149
 00:10:44,800 --> 00:10:46,100
-Não!
+NÃ£o!
 Espera!
 
 150
@@ -706,17 +710,17 @@ Amigos!
 
 151
 00:10:48,161 --> 00:10:49,461
-O quê?
+O quÃª?
 
 152
 00:10:49,462 --> 00:10:52,989
 Somos amigos da internet.
-Você me aceitou, lembra?
+VocÃª me aceitou, lembra?
 
 153
 00:10:55,500 --> 00:10:58,673
 Claro.
-Prazer em conhecê-lo.
+Prazer em conhecÃª-lo.
 
 154
 00:11:04,000 --> 00:11:05,300
@@ -729,17 +733,17 @@ nos observado daqui,
 
 156
 00:11:08,824 --> 00:11:11,624
-é o lugar perfeito
+Ã© o lugar perfeito
 para encenar uma emboscada.
 
 157
 00:11:11,625 --> 00:11:13,225
-Não foi muito justo.
+NÃ£o foi muito justo.
 
 158
 00:11:13,226 --> 00:11:16,245
-Não tem a ver com justiça.
-Tem a ver com vitória.
+NÃ£o tem a ver com justiÃ§a.
+Tem a ver com vitÃ³ria.
 
 159
 00:11:16,246 --> 00:11:18,190
@@ -748,7 +752,7 @@ Desculpe-me.
 
 160
 00:11:18,191 --> 00:11:24,190
-<i>Daí o Chris vestiu a hakama.
+<i>DaÃ­ o Chris vestiu a hakama.
 Cara, ele fica bem de hakama!</i>
 
 161
@@ -763,17 +767,17 @@ quando te levar ao baile.
 
 163
 00:11:29,471 --> 00:11:31,660
-Você só fala disso
-há três horas.
+VocÃª sÃ³ fala disso
+hÃ¡ trÃªs horas.
 
 164
 00:11:32,146 --> 00:11:34,154
-Alguém parece com inveja.
+AlguÃ©m parece com inveja.
 
 165
 00:11:34,155 --> 00:11:36,400
-Só não admite
-que é a palavra com "i".
+SÃ³ nÃ£o admite
+que Ã© a palavra com "i".
 
 166
 00:11:38,150 --> 00:11:39,450
@@ -781,17 +785,17 @@ que é a palavra com "i".
 
 167
 00:11:39,877 --> 00:11:41,906
--Não estou errado.
--É?
+-NÃ£o estou errado.
+-Ã‰?
 
 168
 00:11:41,907 --> 00:11:43,956
-Se você não quer falar
+Se vocÃª nÃ£o quer falar
 do meu amigo...
 
 169
 00:11:45,569 --> 00:11:48,066
-Tenho outros dois irmãos
+Tenho outros dois irmÃ£os
 que querem.
 
 170
@@ -802,7 +806,7 @@ sobre qualquer outra coisa.
 171
 00:11:50,871 --> 00:11:53,481
 Como o conceito
-"você calado", talvez?
+"vocÃª calado", talvez?
 
 172
 00:11:53,973 --> 00:11:57,423
@@ -820,7 +824,7 @@ Chris Bradford.
 
 175
 00:12:07,052 --> 00:12:09,623
-Aí está meu melhor amigo
+AÃ­ estÃ¡ meu melhor amigo
 em todo o mundo.
 
 176
@@ -830,7 +834,7 @@ Mikey, o Grande M.
 
 177
 00:12:14,809 --> 00:12:16,229
-Como vai, amigão?
+Como vai, amigÃ£o?
 
 178
 00:12:16,230 --> 00:12:19,234
@@ -845,31 +849,31 @@ RedBrad.
 180
 00:12:22,915 --> 00:12:26,267
 Sabe, eu estava pensando
-em como somos amigos próximos
+em como somos amigos prÃ³ximos
 
 181
 00:12:26,268 --> 00:12:28,636
 e, ainda assim,
-sei tão pouco sobre você.
+sei tÃ£o pouco sobre vocÃª.
 
 182
 00:12:28,637 --> 00:12:31,753
--Acha que somos amigos próximos?
+-Acha que somos amigos prÃ³ximos?
 -Claro.
 
 183
 00:12:32,537 --> 00:12:35,637
 Agora diga-me tudo
-sobre você.
+sobre vocÃª.
 
 184
 00:12:36,264 --> 00:12:38,319
-Bem, por onde devo começar?
+Bem, por onde devo comeÃ§ar?
 
 185
 00:12:39,309 --> 00:12:41,145
 Nomeei todos
-os meus dedos dos pés.
+os meus dedos dos pÃ©s.
 
 186
 00:12:41,146 --> 00:12:42,523
@@ -882,28 +886,28 @@ e o Joe Unhas...
 
 188
 00:12:45,501 --> 00:12:47,015
-Nossa, isso é fascinante,
+Nossa, isso Ã© fascinante,
 
 189
 00:12:47,016 --> 00:12:50,295
 mas eu pensava mais
-nas incríveis habilidades ninja.
+nas incrÃ­veis habilidades ninja.
 
 190
 00:12:50,844 --> 00:12:52,902
-Deve ter um mestre incrível.
+Deve ter um mestre incrÃ­vel.
 
 191
 00:12:52,903 --> 00:12:55,230
-É, ele é o melhor.
+Ã‰, ele Ã© o melhor.
 
 192
 00:12:55,231 --> 00:12:56,542
-Agora conheça...
+Agora conheÃ§a...
 
 193
 00:12:56,543 --> 00:12:58,591
-Os trigêmeos fedorentos.
+Os trigÃªmeos fedorentos.
 
 194
 00:12:58,592 --> 00:13:00,015
@@ -911,12 +915,12 @@ Tudo bem.
 
 195
 00:13:00,650 --> 00:13:03,588
--Quem está com fome?
+-Quem estÃ¡ com fome?
 -Eu! Quero pizza!
 
 196
 00:13:03,966 --> 00:13:06,174
--Você gosta de pizza?
+-VocÃª gosta de pizza?
 -Sim, claro.
 
 197
@@ -925,44 +929,44 @@ Temos tanto em comum.
 
 198
 00:13:12,723 --> 00:13:14,140
-Isto não é ótimo?
+Isto nÃ£o Ã© Ã³timo?
 
 199
 00:13:14,715 --> 00:13:17,039
-O céu azul,
+O cÃ©u azul,
 pizza...
 
 200
 00:13:17,040 --> 00:13:18,984
 Dois amigos
-só curtindo.
+sÃ³ curtindo.
 
 201
 00:13:20,220 --> 00:13:22,187
-É, ótimo.
+Ã‰, Ã³timo.
 
 202
 00:13:22,826 --> 00:13:25,036
-Já que ficamos
-tão próximos...
+JÃ¡ que ficamos
+tÃ£o prÃ³ximos...
 
 203
 00:13:25,037 --> 00:13:27,834
 Talvez pudesse me contar
-mais sobre seus irmãos.
+mais sobre seus irmÃ£os.
 
 204
 00:13:28,784 --> 00:13:30,862
-Bem, eles são caras legais.
+Bem, eles sÃ£o caras legais.
 
 205
 00:13:30,863 --> 00:13:33,768
-Mas, às vezes, não acho
+Mas, Ã s vezes, nÃ£o acho
 que eles me respeitem.
 
 206
 00:13:35,847 --> 00:13:37,380
-Posso imaginar por quê.
+Posso imaginar por quÃª.
 
 207
 00:13:38,950 --> 00:13:40,655
@@ -978,7 +982,7 @@ Parece velha.
 
 210
 00:13:44,860 --> 00:13:47,501
-É, ela tem mais de 400 anos.
+Ã‰, ela tem mais de 400 anos.
 
 211
 00:13:49,909 --> 00:13:52,237
@@ -1002,67 +1006,67 @@ Mas somos amigos.
 215
 00:14:04,388 --> 00:14:07,840
 E amigos compartilham segredos.
-Não é?
+NÃ£o Ã©?
 
 216
 00:14:07,841 --> 00:14:10,905
-Está me dizendo que vai
-me mostrar sua técnica secreta,
+EstÃ¡ me dizendo que vai
+me mostrar sua tÃ©cnica secreta,
 
 217
 00:14:10,906 --> 00:14:12,763
-o Dragão da Morte?
+o DragÃ£o da Morte?
 
 218
 00:14:14,560 --> 00:14:15,877
-É o seguinte...
+Ã‰ o seguinte...
 
 219
 00:14:15,878 --> 00:14:19,211
-Como demonstração
-de confiança e amizade,
+Como demonstraÃ§Ã£o
+de confianÃ§a e amizade,
 
 220
 00:14:19,212 --> 00:14:21,399
 eu te ensinarei
-o Dragão da Morte.
+o DragÃ£o da Morte.
 
 221
 00:14:21,400 --> 00:14:22,804
-É isso aí!
+Ã‰ isso aÃ­!
 
 222
 00:14:22,805 --> 00:14:26,529
 Mas precisa prometer
-não mostrá-lo a ninguém.
+nÃ£o mostrÃ¡-lo a ninguÃ©m.
 
 223
 00:14:27,730 --> 00:14:29,885
-Prometo que não mostrarei
+Prometo que nÃ£o mostrarei
 nem um suspiro.
 
 224
 00:14:30,191 --> 00:14:34,214
-Então ele chuta,
+EntÃ£o ele chuta,
 gira e passa a perna.
 
 225
 00:14:35,375 --> 00:14:37,623
-O Dragão da Morte!
+O DragÃ£o da Morte!
 
 226
 00:14:38,481 --> 00:14:40,140
-Isso foi incrível!
+Isso foi incrÃ­vel!
 
 227
 00:14:40,141 --> 00:14:43,309
-Sim, é devastadoramente eficaz
+Sim, Ã© devastadoramente eficaz
 e complexo.
 
 228
 00:14:43,310 --> 00:14:45,731
 E, ainda assim,
-até o Mikey aprendeu.
+atÃ© o Mikey aprendeu.
 
 229
 00:14:45,732 --> 00:14:48,034
@@ -1071,11 +1075,11 @@ Ei!
 
 230
 00:14:48,932 --> 00:14:50,307
-É o Redbrad!
+Ã‰ o Redbrad!
 
 231
 00:14:50,852 --> 00:14:52,205
-É meu apelido para ele.
+Ã‰ meu apelido para ele.
 
 232
 00:14:53,023 --> 00:14:55,316
@@ -1089,7 +1093,7 @@ para saber o que significa o B.
 
 234
 00:15:00,067 --> 00:15:01,449
-Você vai agora?
+VocÃª vai agora?
 
 235
 00:15:01,450 --> 00:15:04,411
@@ -1098,32 +1102,32 @@ Coisa de amigo humano.
 
 236
 00:15:04,412 --> 00:15:05,754
-Sabem como é.
+Sabem como Ã©.
 
 237
 00:15:07,375 --> 00:15:09,532
 Espere.
-Não, vocês não sabem.
+NÃ£o, vocÃªs nÃ£o sabem.
 
 238
 00:15:12,910 --> 00:15:14,347
-O esquisitão
-está a caminho,
+O esquisitÃ£o
+estÃ¡ a caminho,
 
 239
 00:15:14,348 --> 00:15:15,871
 a armadilha
-está armada.
+estÃ¡ armada.
 
 240
 00:15:16,290 --> 00:15:18,161
 Bela arma
-para um cara durão.
+para um cara durÃ£o.
 
 241
 00:15:18,506 --> 00:15:20,968
-Na prisão,
-fazemos nossas próprias armas.
+Na prisÃ£o,
+fazemos nossas prÃ³prias armas.
 
 242
 00:15:21,286 --> 00:15:24,474
@@ -1146,8 +1150,8 @@ como o novo amigo.
 
 246
 00:15:45,074 --> 00:15:47,976
-Quem ensinou-lhe essa técnica
-não é amigo.
+Quem ensinou-lhe essa tÃ©cnica
+nÃ£o Ã© amigo.
 
 247
 00:15:47,977 --> 00:15:50,782
@@ -1157,7 +1161,7 @@ não é amigo.
 248
 00:15:51,454 --> 00:15:54,176
 Quer dizer que Bradford
-é um dos discípulos dele?
+Ã© um dos discÃ­pulos dele?
 
 249
 00:15:54,177 --> 00:15:55,762
@@ -1165,16 +1169,16 @@ Tem de ser.
 
 250
 00:15:55,763 --> 00:15:58,655
-Então Bradford só fingiu
+EntÃ£o Bradford sÃ³ fingiu
 ser amigo do Mikey
 
 251
 00:15:58,656 --> 00:15:59,994
-para chegar a você.
+para chegar a vocÃª.
 
 252
 00:16:01,531 --> 00:16:03,066
-Que alívio!
+Que alÃ­vio!
 
 253
 00:16:03,067 --> 00:16:04,672
@@ -1182,7 +1186,7 @@ Tudo volta a fazer sentido.
 
 254
 00:16:05,381 --> 00:16:07,075
-Mikey está em apuros!
+Mikey estÃ¡ em apuros!
 
 255
 00:16:07,076 --> 00:16:08,417
@@ -1190,8 +1194,8 @@ RedBrad?
 
 256
 00:16:08,418 --> 00:16:10,898
-Alô?
-Alô?
+AlÃ´?
+AlÃ´?
 
 257
 00:16:12,619 --> 00:16:14,142
@@ -1199,7 +1203,7 @@ RedyBrady?
 
 258
 00:16:14,143 --> 00:16:16,366
-Está fazendo-me
+EstÃ¡ fazendo-me
 uma festa surpresa?
 
 259
@@ -1209,11 +1213,11 @@ o que fizeram ao Chris,
 
 260
 00:16:35,192 --> 00:16:36,832
-ou estão em sérios...
+ou estÃ£o em sÃ©rios...
 
 261
 00:16:55,213 --> 00:16:57,351
-Ainda não descobriu
+Ainda nÃ£o descobriu
 quem eu sou?
 
 262
@@ -1222,16 +1226,16 @@ E deveria?
 
 263
 00:17:08,639 --> 00:17:11,849
--Já nos conhecemos cara a cara.
--Não...
+-JÃ¡ nos conhecemos cara a cara.
+-NÃ£o...
 
 264
 00:17:11,850 --> 00:17:13,324
-Não pode ser.
+NÃ£o pode ser.
 
 265
 00:17:13,325 --> 00:17:14,665
-Você é...
+VocÃª Ã©...
 
 266
 00:17:14,666 --> 00:17:16,053
@@ -1244,30 +1248,30 @@ Seu tolo.
 268
 00:17:19,781 --> 00:17:22,455
 RedBrad?
-O quê?
+O quÃª?
 
 269
 00:17:24,152 --> 00:17:26,244
-Achei que fôssemos amigos.
+Achei que fÃ´ssemos amigos.
 
 270
 00:17:26,686 --> 00:17:29,229
 Apresentei-o a todos
-os meus dedos dos pés.
+os meus dedos dos pÃ©s.
 
 271
 00:17:29,230 --> 00:17:31,482
 Achou mesmo
-que alguém como eu
+que alguÃ©m como eu
 
 272
 00:17:31,483 --> 00:17:33,553
 seria amigo
-de um esquisitão que nem você?
+de um esquisitÃ£o que nem vocÃª?
 
 273
 00:17:34,226 --> 00:17:35,549
-Patético.
+PatÃ©tico.
 
 274
 00:17:35,550 --> 00:17:37,575
@@ -1298,7 +1302,7 @@ Isso foi de "espalhar"!
 
 280
 00:18:35,804 --> 00:18:37,690
-Não é
+NÃ£o Ã©
 o que isso significa.
 
 281
@@ -1323,7 +1327,7 @@ Acabe com eles!
 
 286
 00:20:51,873 --> 00:20:54,554
--Eles sabiam que os seguíamos.
+-Eles sabiam que os seguÃ­amos.
 -Isso mesmo.
 
 287
@@ -1336,21 +1340,21 @@ Manda ver.
 
 289
 00:21:22,010 --> 00:21:24,587
-Bem, isso não me pareceu
+Bem, isso nÃ£o me pareceu
 muito justo.
 
 290
 00:21:24,930 --> 00:21:26,249
-Não pareceu mesmo.
+NÃ£o pareceu mesmo.
 
 291
 00:21:28,404 --> 00:21:29,816
-Toquem aí!
+Toquem aÃ­!
 
 292
 00:21:34,564 --> 00:21:37,146
 Sensei,
-não está com fome?
+nÃ£o estÃ¡ com fome?
 
 293
 00:21:38,551 --> 00:21:40,523
@@ -1378,7 +1382,7 @@ que estou vivo.
 
 298
 00:21:50,840 --> 00:21:53,845
-E, pior, sabe sobre todos vocês.
+E, pior, sabe sobre todos vocÃªs.
 
 299
 00:21:54,654 --> 00:21:57,005
@@ -1387,16 +1391,16 @@ se torna realidade.
 
 300
 00:21:57,006 --> 00:21:59,458
--Então não acabou?
--Não...
+-EntÃ£o nÃ£o acabou?
+-NÃ£o...
 
 301
 00:22:00,317 --> 00:22:02,361
-Só está começando.
+SÃ³ estÃ¡ comeÃ§ando.
 
 302
 00:22:08,560 --> 00:22:10,172
-Como está indo, Mikey?
+Como estÃ¡ indo, Mikey?
 
 303
 00:22:10,173 --> 00:22:11,979
@@ -1409,34 +1413,34 @@ ser amigo de um humano.
 
 305
 00:22:14,864 --> 00:22:17,151
-Não seja tão duro consigo.
+NÃ£o seja tÃ£o duro consigo.
 
 306
 00:22:17,152 --> 00:22:18,590
-Então não é culpa minha?
+EntÃ£o nÃ£o Ã© culpa minha?
 
 307
 00:22:18,591 --> 00:22:20,318
-Claro que é culpa sua.
+Claro que Ã© culpa sua.
 
 308
 00:22:23,377 --> 00:22:25,882
 Se contar aos outros,
-eu acabo com você.
+eu acabo com vocÃª.
 
 309
 00:22:26,269 --> 00:22:29,070
 Mas...
-Você é um cara incrível.
+VocÃª Ã© um cara incrÃ­vel.
 
 310
 00:22:29,608 --> 00:22:32,890
--Bradford não achava isso.
+-Bradford nÃ£o achava isso.
 -Bem...
 
 311
 00:22:32,891 --> 00:22:35,056
-Ele é uma máquina psicótica
+Ele Ã© uma mÃ¡quina psicÃ³tica
 de matar.
 
 312
@@ -1447,7 +1451,7 @@ que ele.
 313
 00:22:38,784 --> 00:22:41,315
 Quer saber?
-Tem razão.
+Tem razÃ£o.
 
 314
 00:22:41,688 --> 00:22:43,885
@@ -1460,7 +1464,7 @@ Ex-amigo!
 
 316
 00:22:50,907 --> 00:22:53,143
-Vingança!
+VinganÃ§a!
 
 317
 00:22:53,788 --> 00:22:56,040
